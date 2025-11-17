@@ -810,7 +810,7 @@ Built by @pavankumarkr. `,
       {activeTab === 'play' && (
         <section id="playTab">
           <div className="game-container">
-            <h1>Mind Color Sequence</h1>
+            <h1>Color Sequence</h1>
 
             <div className="score-info">
               <div className="score-box">
