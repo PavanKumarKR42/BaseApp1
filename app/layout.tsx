@@ -20,7 +20,7 @@ export const metadata: Metadata = {
         action: {
           type: "launch_frame",
           name: "Mind Color Sequence",
-          url: "https://mindgame-omega.vercel.app/",
+          url: "https://base-app1.vercel.app/",
           splashImageUrl: "https://mindgame-omega.vercel.app/splash.png",
           splashBackgroundColor: "#ffd753"
         }

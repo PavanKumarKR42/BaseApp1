@@ -11,7 +11,7 @@ export async function GET() {
       version: "1",
       name: "BRAIN.exe!",
       iconUrl: "https://mindgame-omega.vercel.app/splash.png",
-      homeUrl: "https://mindgame-omega.vercel.app",
+      homeUrl: "https://base-app1.vercel.app/",
       imageUrl: "https://mindgame-omega.vercel.app/image.png",
       buttonTitle: "Test Memory!",
       splashImageUrl: "https://mindgame-omega.vercel.app/splash.png",
